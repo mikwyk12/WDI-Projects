@@ -1,0 +1,3 @@
+Hello World!
+Ala ma kota
+Programowanie w C
